@@ -93,7 +93,7 @@ header .wrap-header{background: #fff;padding: 60px 0 0;border-top: 5px solid #FF
 
 .content-box .item{padding: 10px 0;}
 .content-box .item:hover .item-content{color: #fff;-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;}
-.content-box .item h3.item-header{font-size: 25px;margin: 0 0 20px 50px;}
+.content-box .item h3.item-header{font-size: 25px;margin: 0 0 20px;}
 .content-box .item img{display: block;width: 100% !important;height: auto;-webkit-transition: all .5s ease; /* Safari and Chrome */-moz-transition: all .5s ease; /* Firefox */-ms-transition: all .5s ease; /* IE 9 */-o-transition: all .5s ease; /* Opera */transition: all .5s ease;}
 .content-box .item .item-content{background-color: #fff;padding: 25px;border: 1px solid #ddd;}
 .content-box .item span{font-size: 15px;font-weight: 500;color: #000;}
