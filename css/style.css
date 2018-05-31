@@ -64,7 +64,7 @@ body .wrap-body{}
 /* -------------------------------------Header--------------------------------- */
 /* ---------------------------------------------------------------------------- */
 header{margin-top: 60px;}
-header .wrap-header{background: #fff;padding: 60px 0 0;border-top: 5px solid #FFDF00;}
+header .wrap-header{background: #fff;padding: 60px 0 0;border-top: 5px solid #000;}
 
 @media (max-width: 767px) { 
    header{margin-top: 0;}
