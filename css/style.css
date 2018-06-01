@@ -342,3 +342,20 @@ a.button-2:hover{background-color: rgba(0, 0, 0, 0.9);}
 .maps iframe{
     pointer-events: none;
 }
+
+
+.bloque2 h2 {
+    font-size: 18px;
+    font-weight: normal;
+    height: 18px;
+    padding-bottom: 6px;
+    margin: 0 0 6px 0;
+    border-bottom: dotted 1px #998f82;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+#home .bloque1, #home .bloque2 {
+    color: #403b33;
+    font-family: 'Karla', sans-serif;
+}
